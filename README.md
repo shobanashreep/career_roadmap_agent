@@ -4,7 +4,7 @@ An AI-powered NLP-based career guidance system that recommends suitable career p
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 Choosing the right career path can be challenging for students and job seekers. Many individuals struggle to understand:
 
@@ -17,21 +17,21 @@ This project addresses these challenges by leveraging Natural Language Processin
 
 ---
 
-## 🚀 Features
+## Features
 
-### ✅ Career Recommendation
+### Career Recommendation
 
 Recommends the most suitable career paths based on user skills and interests.
 
-### ✅ Top 3 Career Suggestions
+### Top 3 Career Suggestions
 
 Displays the top matching career roles along with match percentages.
 
-### ✅ Skill Gap Analysis
+### Skill Gap Analysis
 
 Compares user skills against job requirements and identifies missing skills.
 
-### ✅ Personalized Learning Roadmap
+### Personalized Learning Roadmap
 
 Generates a structured roadmap categorized into:
 
@@ -41,17 +41,17 @@ Generates a structured roadmap categorized into:
 
 with estimated learning durations.
 
-### ✅ Course Recommendations
+### Course Recommendations
 
 Suggests relevant learning resources and courses for missing skills.
 
-### ✅ Interactive Dashboard
+### Interactive Dashboard
 
 Built using Streamlit for a simple and user-friendly experience.
 
 ---
 
-## 🏗️ System Architecture
+## System Architecture
 
 ```text
 User Skills & Interests
@@ -83,7 +83,7 @@ User Skills & Interests
 
 ---
 
-## 📊 Dataset
+## Dataset
 
 ### Source
 
@@ -102,7 +102,7 @@ Dataset Size:
 
 ---
 
-## 🧠 NLP Pipeline
+## NLP Pipeline
 
 ### 1. Text Cleaning
 
@@ -134,7 +134,7 @@ Skills are extracted using a predefined skill dictionary containing:
 
 ---
 
-## 🔍 Recommendation Engine
+## Recommendation Engine
 
 ### TF-IDF Vectorization
 
@@ -156,7 +156,7 @@ Higher Score = Better Career Match
 
 ---
 
-## 📈 Skill Gap Analysis
+## Skill Gap Analysis
 
 The system compares:
 
@@ -186,7 +186,7 @@ TensorFlow
 
 ---
 
-## 🗺️ Roadmap Generation
+## Roadmap Generation
 
 Missing skills are organized into learning phases.
 
@@ -220,7 +220,7 @@ Examples:
 
 ---
 
-## 🎓 Course Recommendation System
+## Course Recommendation System
 
 Each missing skill is mapped to a recommended learning resource.
 
@@ -239,7 +239,7 @@ NLP
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 ### Programming Language
 
@@ -268,7 +268,7 @@ NLP
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```text
 career_roadmap_agent/
@@ -290,7 +290,7 @@ career_roadmap_agent/
 
 ---
 
-## ⚙️ Installation
+## Installation
 
 ### Clone Repository
 
@@ -318,7 +318,7 @@ streamlit run app.py
 
 ---
 
-## 💡 Example Usage
+## Example Usage
 
 ### User Input
 
@@ -358,7 +358,7 @@ PyTorch for Deep Learning
 
 ---
 
-## 🎯 Learning Outcomes
+## Learning Outcomes
 
 This project demonstrates:
 
@@ -373,7 +373,7 @@ This project demonstrates:
 
 ---
 
-## 🔮 Future Enhancements
+## Future Enhancements
 
 ### Resume Upload
 
